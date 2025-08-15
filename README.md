@@ -1,33 +1,53 @@
 <img width="300" height="300" alt="Precision" src="https://github.com/user-attachments/assets/a63fac97-2c91-4283-a10e-0806468f29bf" />
 
-# Precision Terminal
-A terminal meant for the best of best. Includes an AI chatbot called Olo so you can code smarter.
+
+## Precision Terminal
+
+A terminal built for the best of the best. Code faster, smarter, and cleaner with OloAI at your side.
 
 # Intuitive Design
-Simple to use for beginners. Use all different types of command suites. Code like never before.
 
-With Precision, it's easy to use AI in all of your projects.
+Precision is simple enough for beginners, yet powerful for pros. Run any command suite, automate workflows, and code like never before—all with built-in AI assistance.
 
-# Olo & Precision AI
-Olo is based off of Meta LLaMa 3.1 8B Instruct. It will take 4.58GB to install onto your system to use. You can choose to download LLaMa. If so, you can run:
+# Olo + Precision AI
 
-olo openapi=xxxxxxxxxxxxxxxxx ## Replace this with your OpenAI API key.
-Learn more about Olo in the public release of Precision.
+Olo is powered by Meta LLaMa 3.1 8B Instruct.
+
+Local Install Size: ~4.58 GB
+
+Optional: Run LLaMa locally, or connect via OpenAI by entering:
 
 
-Olo can have up to 48,800 tokens and will use your CPU and RAM to run itself for offline use. If you have a neural engine, Precision will use it instead.
+"olo openapi your-key"
+
+
+Offline Mode uses your CPU + RAM; if you have a Neural Engine, Precision will leverage it automatically.
+
+Supports up to 48,800 Tokens for extended context.
+
+Learn more about Olo in the upcoming public release of Precision.
+
 
 # OS Support
-Precision works with:
 
-Windows,
-macOS, and
-Debian-based systems (.deb)
+Currently available for:
 
+Windows
+
+macOS
+
+Debian-Based Linux (.deb)
+
+## More platforms coming soon.
 
 # BetterPackageManager (BPM)
-Install things from any of your package managers using BPM. BPM is easy to use and 
+
+Install from any of your package managers in one click. Pip, NPM, APT, and Chocolately all in one with BPM. BPM is built for speed and simplicity, so you spend less time installing and more time creating.
+
 
 # Get Precision
-Precision is currently in beta. Public beta releases have not been issued.
 
+Precision is in Closed Beta. Open Beta releases have not yet been issued. Stay tuned for updates.
+
+
+## (Open Beta releases will only support Windows.)
